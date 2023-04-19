@@ -1,4 +1,4 @@
-# twitter-sentiment-analysis
+# Twitter Sentiment Analysis
 
 This code performs Twitter sentiment analysis, allowing you to analyze the sentiment of tweets containing specific keywords, and then visualize the results using graphs. The sentiment analysis is done using the TextBlob library, which performs a basic Natural Language Processing (NLP) technique called sentiment analysis.
 
